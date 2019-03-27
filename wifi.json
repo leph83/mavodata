@@ -1,5 +1,10 @@
 {
-	"link_item": [
+	
+	"prop": "Allgemein",
+	"category": [
+		{
+			"prop": "Kategorie",
+			"link_item": [
 		{
 			"link": "https://codepen.io/juliepark/pen/WmYzZm",
 			"name": "Font Pair"
@@ -12,16 +17,7 @@
 			"link": "https://fonts.google.com/",
 			"name": "Google Fonts"
 		}
-	],
-	"prop": "Allgemein",
-	"category": [
-		{
-			"prop": "Kategorie",
-			"link_item": [
-				{
-					"link": "#"
-				}
-			]
+	]
 		}
 	]
 }
