@@ -13,5 +13,15 @@
 			"name": "Google Fonts"
 		}
 	],
-	"prop": "Allgemein"
+	"prop": "Allgemein",
+	"category": [
+		{
+			"prop": "Kategorie",
+			"link_item": [
+				{
+					"link": "#"
+				}
+			]
+		}
+	]
 }
