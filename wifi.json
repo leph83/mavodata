@@ -1,23 +1,27 @@
 {
-	
 	"prop": "Allgemein",
 	"category": [
 		{
-			"prop": "Kategorie",
+			"prop": "Unkategorisiert",
 			"link_item": [
-		{
-			"link": "https://codepen.io/juliepark/pen/WmYzZm",
-			"name": "Font Pair"
+				{
+					"link": "https://www.w3schools.com/tags/",
+					"name": "HTML Tags"
+				}
+			]
 		},
 		{
-			"link": "https://www.w3schools.com/tags/",
-			"name": "HTML Tags"
-		},
-		{
-			"link": "https://fonts.google.com/",
-			"name": "Google Fonts"
-		}
-	]
+			"prop": "Fonts",
+			"link_item": [
+				{
+					"link": "https://codepen.io/juliepark/pen/WmYzZm",
+					"name": "Font Pair"
+				},
+				{
+					"link": "https://fonts.google.com/",
+					"name": "Google Fonts"
+				}
+			]
 		}
 	]
 }
