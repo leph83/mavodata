@@ -30,6 +30,15 @@
 					"name": "Google Fonts"
 				}
 			]
+		},
+		{
+			"prop": "HTML",
+			"link_item": [
+				{
+					"link": "https://validator.w3.org/",
+					"name": "HTML Validierung"
+				}
+			]
 		}
 	]
 }
