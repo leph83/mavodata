@@ -46,6 +46,10 @@
 				{
 					"link": "https://www.creativebloq.com/features/5-cool-css-grid-generators?fbclid=IwAR1joMGkLyuXUYSaUdtRPI7qj2JHMyB1sFZoXxIN3c3VpZU_1BB1ChUi5qE",
 					"name": "Grid Generator"
+				},
+				{
+					"link": "https://codepen.io/nategreen/pen/MwxRvP?editors=1100",
+					"name": "Normalize vs Reset"
 				}
 			]
 		}
