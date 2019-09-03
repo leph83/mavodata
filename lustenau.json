@@ -1,1 +1,11 @@
-{}
+{
+	"category": [
+		{
+			"category-name": "Freizeit"
+		},
+		{
+			"category-name": "Arbeit"
+		},
+		{}
+	]
+}
